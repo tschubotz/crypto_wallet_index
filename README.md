@@ -8,7 +8,13 @@ A list of crypto wallets, mainly for Ethereum.
 | imToken | [:globe_with_meridians:](https://token.im/) | - | [:page_facing_up:](https://docs.token.im/) | Android, iOS | - | ETH, ERC-20 tokens | :white_check_mark: | :x: | Recovery key |
 | Jaxx | [:globe_with_meridians:](https://jaxx.io/) | [:floppy_disk:](https://github.com/Jaxx-io) | -  | Android, iOS | Chrome extension, MacOS, Linux, Windows | ETH, ETC, BTC, BHC, LTC, ERC-20 tokens, others | :white_check_mark: | :x: | Recovery key |
 | Metamask | [:globe_with_meridians:](https://metamask.io/) | [:floppy_disk:](https://github.com/MetaMask) | [:page_facing_up:](https://github.com/MetaMask/faq/blob/master/DEVELOPERS.md) | - | Chrome extension | ETH, ERC-20 tokens | :white_check_mark: | :x: | Recovery key | 
+| Multy | [:globe_with_meridians:](http://multy.io/) | [:floppy_disk:](https://github.com/Appscrunch) | - | Android, iOS| - | ETH, BTC | :white_check_mark: | :white_check_mark: | Recovery key |
 | Trust Wallet | [:globe_with_meridians:](https://trustwalletapp.com/) | [:floppy_disk:](https://github.com/TrustWallet) | - | Android, iOS | - | ETH, ERC-20 tokens | :white_check_mark: | :x: | Recovery key |
+
+*Custodial wallets:*
+| Wallet | URL | Code | Docs | Mobile | Desktop | Assets | Non-custodial? | Contract-based? |
+| ------ | --- | ---- | ---- | ------ | ------- | -------| -------------- | --------------- |
+| Freewallet | [:globe_with_meridians:](https://freewallet.org/) | [:floppy_disk:](https://github.com/freewallet) | - | Android, iOS | Webapp | ETH, ETC, BTC, LTC, DASH, ERC-20 tokens, others | :x:: | :x: | 
 
 
 <!-- | | [:globe_with_meridians:]() | [:floppy_disk:]() | [:page_facing_up:]() | | | ETH, ERC-20 tokens | :white_check_mark: | :x: | Recovery key |  -->
