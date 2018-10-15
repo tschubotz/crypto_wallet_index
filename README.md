@@ -16,6 +16,7 @@ A list of crypto wallets, mainly for Ethereum.
 | Walleth | [:globe_with_meridians:](https://walleth.org/) | [:floppy_disk:](https://github.com/walleth) | - | Android | - | ETH, ERC-20 tokens | :white_check_mark: | :x: | Recovery key | Released |
 
 *Custodial wallets:*
+
 | Wallet | URL | Code | Docs | Mobile | Desktop | Assets | Non-custodial? | Contract-based? | Status |
 | ------ | --- | ---- | ---- | ------ | ------- | -------| -------------- | --------------- | ------ |
 | Freewallet | [:globe_with_meridians:](https://freewallet.org/) | [:floppy_disk:](https://github.com/freewallet) | - | Android, iOS | Webapp | ETH, ETC, BTC, LTC, DASH, ERC-20 tokens, others | :x: | :x: | Released |
